@@ -9,9 +9,9 @@
   "files": [
     "dist"
   ],
-  "repository": "git://github.com/rightfoot-consulting/next-use-keypress.git",
+  "repository": "git@github.com:rightfoot-consulting/next-use-keypress.git",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://registry.npmjs.org"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
