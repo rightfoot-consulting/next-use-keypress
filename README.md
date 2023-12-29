@@ -14,7 +14,7 @@ handler function to be called when one of the matching key values has been press
 ## Examples
 Listening to a single key:
 
-    import { useKeypress } from 'next-use-keypress';
+    import { useKeypress } from '@rightfoot-consulting/next-use-keypress';
 
     const Example = (props) => {
     // ...
@@ -26,7 +26,7 @@ Listening to a single key:
 
 Listening to multiple keys:
 
-    import { useKeypress } from 'next-use-keypress';
+    import { useKeypress } from '@rightfoot-consulting/next-use-keypress';
 
     const Example = (props) => {
     // ...
